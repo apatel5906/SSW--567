@@ -35,10 +35,13 @@ class TestTriangles(unittest.TestCase):
     def testInvalidInput10(self):
         self.assertEqual(classifyTriangle(0,0,0),'InvalidInput')
 
-    def testIsoscelesTriangle11(self):
-        self.assertEqual(classifyTriangle(4, 4, 5), 'Isosceles')
+    def testInvalidInput11(self):
+        self.assertEqual(classifyTriangle(1.5,2.5,3.5),'InvalidInput')
 
     def testIsoscelesTriangle12(self):
+        self.assertEqual(classifyTriangle(4, 4, 5), 'Isosceles')
+
+    def testIsoscelesTriangle13(self):
         self.assertEqual(classifyTriangle(6, 9, 6), 'Isosceles')
 
 

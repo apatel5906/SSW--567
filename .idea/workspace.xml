@@ -4,7 +4,6 @@
     <list default="true" id="c5f05fb3-6bbc-46c2-8595-e020dae6b2f1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HW 02a/TestTriangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW 02a/TestTriangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW 02a/Triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW 02a/Triangle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,12 +21,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.Python tests for TestTriangle.TestTriangles">
     <configuration name="Python tests for TestTriangle.TestTriangles" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="SSW--567" />
@@ -43,7 +42,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for TestTriangle.TestTriangles.testInvalidInput8" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for TestTriangle.TestTriangles.testInvalidInput11" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="SSW--567" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +52,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;TestTriangle.TestTriangles.testInvalidInput8&quot;" />
+      <option name="_new_target" value="&quot;TestTriangle.TestTriangles.testInvalidInput11&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -102,10 +101,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Python tests for TestTriangle.TestTriangles" />
+        <item itemvalue="Python tests.Python tests for TestTriangle.TestTriangles.testInvalidInput11" />
         <item itemvalue="Python tests.Python tests for TestTriangle.TestTriangles.testInvalidInput9" />
         <item itemvalue="Python tests.Python tests for TestTriangle.TestTriangles.testScaleneTriangles6" />
         <item itemvalue="Python tests.Python tests for TestTriangle.TestTriangles.testIsoscelesTriangle10" />
-        <item itemvalue="Python tests.Python tests for TestTriangle.TestTriangles.testInvalidInput8" />
       </list>
     </recent_temporary>
   </component>
